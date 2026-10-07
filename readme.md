@@ -1,6 +1,7 @@
 # lastlog
 
 I' too lazy to write `git log...` every time, so I did this.
-Just go install it and use as `lastlog`
+Just `go install` it and use as `lastlog`
 
-I could make some flags later, for example `-<number>` to change the amount of printed lines
+You can aslo provide amount of lines you need like this: `lasglog 10`
+Default amount is 25
